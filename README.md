@@ -1,2 +1,2 @@
 # abstracaoJava
-Exercício de média utilizando abstração
+Exercício de calcular a média utilizando abstração
