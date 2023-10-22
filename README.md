@@ -1,2 +1,2 @@
 # abstracaoJava
-Exercício de calcular a média utilizando abstração
+Exercícios aderindo a linguagem Java utilizando abstrações, encapsulamentos, manipulações de vetores...
